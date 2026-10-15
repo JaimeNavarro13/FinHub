@@ -1,5 +1,9 @@
 # FinHub
 
+## Desarrollo en equipo
+
+Desarrollado en colaboración entre dos personas, con trabajo compartido en las distintas partes de la aplicación.
+
 > Self-hosted personal finance hub for Europe. Consolidate bank accounts, card spend (with Curve deduplication), budgets, and investments — all under your control.
 
 [![Deploy](https://img.shields.io/badge/deploy-production-22c55e?style=flat-square)](https://finhub.vatotech.es)
@@ -32,7 +36,7 @@
 
 ```bash
 # Clone & enter
-git clone git@github.com:vatodevops/FinHub.git
+git clone https://github.com/JaimeNavarro13/FinHub.git
 cd FinHub
 
 # Start everything — backend + frontend + SQLite local DB
